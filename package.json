@@ -1,0 +1,27 @@
+{
+  "name": "ossgsum",
+  "version": "1.0.0",
+  "description": "Open source creating sum tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ossgsum": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeTuAnh320/ossgsum.git"
+  },
+  "homepage": "https://twitter.com/MaryhEliza9237",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "LeTuAnh320",
+  "license": "MIT"
+}
